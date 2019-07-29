@@ -31,7 +31,7 @@ git status es para saber el status de la rastreada
 
 git checkout -f regresar# y no salvar el commit
 
-
+ultima
 
 
 
