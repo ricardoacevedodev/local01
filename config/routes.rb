@@ -5,4 +5,6 @@ Rails.application.routes.draw do
 root 'welcome#home' #root es para el index
 #asi se crea una ruta
 get  'about', to:  'welcome#about'
+
+resources :articles #nueva ruta hacia creaar articulos mostrary borrar
 end
